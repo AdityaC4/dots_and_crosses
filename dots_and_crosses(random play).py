@@ -1,7 +1,4 @@
 '''
-CSE Honors Project 1
-"Dots and Boxes"
-
 Algorithm:
     class Board:
         init
