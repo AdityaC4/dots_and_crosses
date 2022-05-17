@@ -1,0 +1,20 @@
+Multiple Play mode data: 
+Number of games played: 1000
+
+Average score of Player A: 6.961
+Average score of Player B: 76.99
+Average overall score: 83.951
+
+Median score for Player A: 7
+Median score for Player B: 79
+Median overall score: 42
+
+Highest score for Player A: 17
+Highest score for Player B: 103
+Lowest score for Player A: 0
+Lowest score for Player B: 42
+
+A started 522 times.
+B started 478 times.
+
+A won 0 games, B won 1000 games and 0 games ended in a tie.
